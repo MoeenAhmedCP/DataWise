@@ -2,7 +2,6 @@
 
 A multi-tenant SaaS analytics platform with AI-powered insights. Multiple companies can sign up, get isolated workspaces, upload CSV data or enter metrics manually, and see live dashboards with trend charts, automated alerts, and an AI chat assistant.
 
-**Live Demo:** _[Add link after deployment]_
 
 ---
 
